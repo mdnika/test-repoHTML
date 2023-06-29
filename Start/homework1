@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="2">
+        <tr>
+            <th>Flag</th>
+            <th>Currency</th>
+            <th>Rate</th>
+        </tr>
+            <tr>
+                <td>
+                    <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1fa-1f1f8@2x.png"/>
+                    <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1ea-1f1fa@2x.png"/>
+                </td>
+                <td><p><h3> $(USD) / €(EUR) </h3></p></td>
+                <td>0.92 €</td>
+            </tr>          
+                <tr>
+                    <td>
+                        <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1e8-1f1e6@2x.png"/>
+                        <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1ea-1f1fa@2x.png"/>
+                    </td>
+                    <td><p><h3> C$(CAD) / €(EUR) </h3></p></td>
+                    <td>0.70 €</td>
+                </tr>
+                <tr>
+                    <td> 
+                    <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1ef-1f1f5@2x.png"/>
+                   <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1ea-1f1fa@2x.png"/>
+                    </td>
+                    <td><p><h3> ¥(JPY) / €(EUR) </h3></p></td>
+                    <td>0.0064 €</td>
+                </tr>
+                <tr>
+                      <td> 
+                    <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1ec-1f1e7@2x.png"/>
+                   <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1ea-1f1fa@2x.png"/>
+                    </td>
+                    <td><p><h3> £(GBP) / €(EUR) </h3></p></td>
+                    <td>1.17 €</td>
+                </tr>
+                <tr>
+                    <td>
+                    <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1f7-1f1fa@2x.png"/>
+                   <img src="https://a.slack-edge.com/production-standard-emoji-assets/14.0/google-large/1f1ea-1f1fa@2x.png"/>
+                    </td>
+                    <td><p><h3> ₽(RUB) / €(EUR) </h3></p></td>
+                    <td>0.0011 €</td>
+                </tr>
+    </table>
+</body>
+</html>

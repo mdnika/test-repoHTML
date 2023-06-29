@@ -1,0 +1,65 @@
+div {
+    background-color: rgba(0, 255, 38, 0.244);
+}
+
+.body {
+    background-color: rgb(249, 164, 230);
+}
+
+.headline {
+    background-color: rgb(212, 32, 32);
+    border: 30px ;
+    border-radius: 10px;
+    border-color: rgb(26, 94, 142);
+    text-align: center;
+}
+
+.subheader {
+    font-family:'Courier New', Courier, monospace 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-style: arial;
+    color: rgb(70, 10, 190);
+}
+
+.intro {
+    background-color: rgb(175, 226, 127);
+    font-size: 20px;
+    font-variant: small-caps;
+    border: 10px inset;
+    border-color: rgb(10, 235, 59);
+}
+
+.main-text {
+    color: rgb(36, 27, 27);
+    font-size: 16px;
+    font-style: oblique;
+    text-align: center;
+    background-color: rgb(198, 123, 76);
+}
+
+#text-more {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: yellowgreen;
+    background-color: rgb(118, 26, 209);
+}
+
+.bald-idea {
+    font-style: bold italic;
+    border-top: 2px dotted;
+    
+}
+
+.img {
+    width: 100px;
+    box-shadow: 0px 0px 8px darkkhaki;
+    border-radius: 80px;
+}
+#color{
+    color: brown;
+}
+.footer-element {
+    color: rgb(61, 61, 230);
+    border: 2px solid;
+}
